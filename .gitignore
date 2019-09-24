@@ -1,2 +1,6 @@
 /.gradle/
-
+/app/build
+/app/app.iml
+/.idea/
+/IOGate-CamPlayer.iml
+/gradle
